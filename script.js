@@ -1,5 +1,5 @@
 async function loadConfig() {
-	return await fetch('/config.json')
+	return await fetch('config.json')
 		.then(resp => resp.json())
 		.then(data => data)
 		.catch(_ => null)
