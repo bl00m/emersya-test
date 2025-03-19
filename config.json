@@ -1,0 +1,34 @@
+{
+	"groupConfigurations": [
+		{
+			"groupName": "Fabric",
+			"label": "Tissu",
+			"configurations": [
+				{ "configurationName": "rojo", "label": "Rojo" },
+				{ "configurationName": "blue", "label": "Blue" },
+				{ "configurationName": "nero", "label": "Nero" },
+				{ "configurationName": "tierra", "label": "Tierra" }
+			]
+		},
+		{
+			"groupName": "Frame",
+			"label": "Cadre",
+			"configurations": [
+				{ "configurationName": "ruby_red", "label": "Ruby red" },
+				{ "configurationName": "mountain_fjord", "label": "Mountain fjord" },
+				{ "configurationName": "creamy_yellow", "label": "Creamy yellow" }
+			]
+		},
+		{
+			"groupName": "Mesh material",
+			"label": "Maillage",
+			"configurations": [
+				{ "configurationName": "rosso", "label": "Rosso" },
+				{ "configurationName": "blue", "label": "Blue" },
+				{ "configurationName": "nero", "label": "Nero" },
+				{ "configurationName": "blanco", "label": "Blanco" }
+			]
+		}
+	]
+}
+
